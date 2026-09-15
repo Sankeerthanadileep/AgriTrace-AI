@@ -3,11 +3,13 @@ from ultralytics import YOLO
 # Load YOLO model
 model = YOLO("yolo11n.pt")
 
-# Detect objects in the farm video
-results = model.predict(
+# Track animals in the video
+results = model.track(
     source="videos/farm_video.mp4",
+    tracker="bytetrack.yaml",
     save=True,
-    show=True
+    show=True,
+    persist=True
 )
 
-print("Detection completed!")
+print("Animal tracking completed!")

@@ -1,0 +1,647 @@
+{
+    "ANIMAL-001": {
+        "animal_id": "ANIMAL-001",
+        "identity": {
+            "tracking_id": "265",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "drinking",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 0.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 0.0,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 39.27,
+            "resting_seconds": 3.37,
+            "herd_interaction_seconds": 1.1,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1312,
+            "observed_seconds": 43.73,
+            "last_zone": "drinking_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-002": {
+        "animal_id": "ANIMAL-002",
+        "identity": {
+            "tracking_id": "276",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "drinking",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 7.47
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 3.33,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 41.27,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 10.13,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1642,
+            "observed_seconds": 54.73,
+            "last_zone": "drinking_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-003": {
+        "animal_id": "ANIMAL-003",
+        "identity": {
+            "tracking_id": "445",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 96.71
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 18.5,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 0.3,
+            "resting_seconds": 0.33,
+            "herd_interaction_seconds": 30.7,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1495,
+            "observed_seconds": 49.83,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-004": {
+        "animal_id": "ANIMAL-004",
+        "identity": {
+            "tracking_id": "357",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 56.19
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 13.17,
+            "feeding_seconds": 10.27,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 16.47,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1197,
+            "observed_seconds": 39.9,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-005": {
+        "animal_id": "ANIMAL-005",
+        "identity": {
+            "tracking_id": "216",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "drinking",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 0.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 0.0,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 8.5,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.0,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 255,
+            "observed_seconds": 8.5,
+            "last_zone": "drinking_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-006": {
+        "animal_id": "ANIMAL-006",
+        "identity": {
+            "tracking_id": "432",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "feeding",
+            "moving_percentage": 0.51,
+            "stationary_percentage": 34.21
+        },
+        "activity_history": {
+            "moving_seconds": 0.2,
+            "stationary_seconds": 13.43,
+            "feeding_seconds": 25.63,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 10.77,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1501,
+            "observed_seconds": 50.03,
+            "last_zone": "feeding_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-007": {
+        "animal_id": "ANIMAL-007",
+        "identity": {
+            "tracking_id": "550",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "drinking",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 19.25
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 3.87,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 16.23,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 32.3,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1572,
+            "observed_seconds": 52.4,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-008": {
+        "animal_id": "ANIMAL-008",
+        "identity": {
+            "tracking_id": "472",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "feeding",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 0.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 0.0,
+            "feeding_seconds": 27.1,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.0,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 813,
+            "observed_seconds": 27.1,
+            "last_zone": "feeding_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-009": {
+        "animal_id": "ANIMAL-009",
+        "identity": {
+            "tracking_id": "524",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "feeding",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 0.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 0.0,
+            "feeding_seconds": 41.23,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.0,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1237,
+            "observed_seconds": 41.23,
+            "last_zone": "feeding_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-010": {
+        "animal_id": "ANIMAL-010",
+        "identity": {
+            "tracking_id": "516",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 91.85
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 21.07,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 1.87,
+            "herd_interaction_seconds": 15.53,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 1154,
+            "observed_seconds": 38.47,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-011": {
+        "animal_id": "ANIMAL-011",
+        "identity": {
+            "tracking_id": "1",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "drinking",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 0.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 0.0,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 4.93,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.0,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 148,
+            "observed_seconds": 4.93,
+            "last_zone": "drinking_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-012": {
+        "animal_id": "ANIMAL-012",
+        "identity": {
+            "tracking_id": "434",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 100.0
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 13.37,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 0.0,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.37,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 412,
+            "observed_seconds": 13.73,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-013": {
+        "animal_id": "ANIMAL-013",
+        "identity": {
+            "tracking_id": "403",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 97.24
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 17.63,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 0.5,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 3.17,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 639,
+            "observed_seconds": 21.3,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-014": {
+        "animal_id": "ANIMAL-014",
+        "identity": {
+            "tracking_id": "519",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 96.84
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 12.27,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 0.4,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 0.73,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 402,
+            "observed_seconds": 13.4,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    },
+    "ANIMAL-015": {
+        "animal_id": "ANIMAL-015",
+        "identity": {
+            "tracking_id": "367",
+            "identity_method": "video_position_reidentification",
+            "permanent_id": null
+        },
+        "behavior_baseline": {
+            "observed_seconds": 0,
+            "moving_percentage": 0,
+            "stationary_percentage": 0
+        },
+        "current_behavior": {
+            "activity": "stationary",
+            "moving_percentage": 0.0,
+            "stationary_percentage": 83.56
+        },
+        "activity_history": {
+            "moving_seconds": 0.0,
+            "stationary_seconds": 11.03,
+            "feeding_seconds": 0.0,
+            "drinking_seconds": 2.17,
+            "resting_seconds": 0.0,
+            "herd_interaction_seconds": 3.53,
+            "separated_seconds": 0.0
+        },
+        "observation": {
+            "frames_seen": 502,
+            "observed_seconds": 16.73,
+            "last_zone": "general_area"
+        },
+        "events": [],
+        "alerts": [],
+        "farm_records": {
+            "breed": null,
+            "age": null,
+            "weight": null,
+            "vaccinations": [],
+            "breeding_records": [],
+            "milk_production": [],
+            "veterinary_records": []
+        }
+    }
+}

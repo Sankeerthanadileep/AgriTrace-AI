@@ -1,0 +1,252 @@
+{
+    "1": {
+        "observed_seconds": 20.44,
+        "moving_percentage": 2.74,
+        "stationary_percentage": 97.26
+    },
+    "2": {
+        "observed_seconds": 10.64,
+        "moving_percentage": 12.78,
+        "stationary_percentage": 87.22
+    },
+    "3": {
+        "observed_seconds": 10.64,
+        "moving_percentage": 1.5,
+        "stationary_percentage": 98.5
+    },
+    "4": {
+        "observed_seconds": 9.84,
+        "moving_percentage": 2.03,
+        "stationary_percentage": 97.97
+    },
+    "15": {
+        "observed_seconds": 9.68,
+        "moving_percentage": 0.41,
+        "stationary_percentage": 99.59
+    },
+    "18": {
+        "observed_seconds": 8.84,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "34": {
+        "observed_seconds": 6.96,
+        "moving_percentage": 1.15,
+        "stationary_percentage": 98.85
+    },
+    "55": {
+        "observed_seconds": 6.72,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "56": {
+        "observed_seconds": 3.84,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "57": {
+        "observed_seconds": 8.52,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "58": {
+        "observed_seconds": 9.76,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "73": {
+        "observed_seconds": 35.56,
+        "moving_percentage": 2.14,
+        "stationary_percentage": 97.86
+    },
+    "102": {
+        "observed_seconds": 2.76,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "105": {
+        "observed_seconds": 2.84,
+        "moving_percentage": 1.41,
+        "stationary_percentage": 98.59
+    },
+    "108": {
+        "observed_seconds": 4.2,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "111": {
+        "observed_seconds": 2.04,
+        "moving_percentage": 5.88,
+        "stationary_percentage": 94.12
+    },
+    "124": {
+        "observed_seconds": 2.44,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "142": {
+        "observed_seconds": 26.16,
+        "moving_percentage": 7.49,
+        "stationary_percentage": 92.51
+    },
+    "143": {
+        "observed_seconds": 6.8,
+        "moving_percentage": 2.35,
+        "stationary_percentage": 97.65
+    },
+    "144": {
+        "observed_seconds": 6.8,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "145": {
+        "observed_seconds": 6.8,
+        "moving_percentage": 4.12,
+        "stationary_percentage": 95.88
+    },
+    "146": {
+        "observed_seconds": 10.8,
+        "moving_percentage": 1.11,
+        "stationary_percentage": 98.89
+    },
+    "147": {
+        "observed_seconds": 6.76,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "148": {
+        "observed_seconds": 14.8,
+        "moving_percentage": 0.54,
+        "stationary_percentage": 99.46
+    },
+    "159": {
+        "observed_seconds": 6.4,
+        "moving_percentage": 1.25,
+        "stationary_percentage": 98.75
+    },
+    "162": {
+        "observed_seconds": 6.32,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "168": {
+        "observed_seconds": 4.76,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "183": {
+        "observed_seconds": 2.24,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "230": {
+        "observed_seconds": 9.04,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "231": {
+        "observed_seconds": 9.04,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "232": {
+        "observed_seconds": 9.04,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "241": {
+        "observed_seconds": 19.0,
+        "moving_percentage": 0.42,
+        "stationary_percentage": 99.58
+    },
+    "252": {
+        "observed_seconds": 2.4,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "271": {
+        "observed_seconds": 3.84,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "278": {
+        "observed_seconds": 3.28,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "282": {
+        "observed_seconds": 10.16,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "283": {
+        "observed_seconds": 5.92,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "285": {
+        "observed_seconds": 9.68,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "305": {
+        "observed_seconds": 5.36,
+        "moving_percentage": 3.73,
+        "stationary_percentage": 96.27
+    },
+    "326": {
+        "observed_seconds": 4.36,
+        "moving_percentage": 0.92,
+        "stationary_percentage": 99.08
+    },
+    "330": {
+        "observed_seconds": 9.88,
+        "moving_percentage": 3.64,
+        "stationary_percentage": 96.36
+    },
+    "331": {
+        "observed_seconds": 6.16,
+        "moving_percentage": 1.3,
+        "stationary_percentage": 98.7
+    },
+    "378": {
+        "observed_seconds": 3.96,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "402": {
+        "observed_seconds": 2.08,
+        "moving_percentage": 3.85,
+        "stationary_percentage": 96.15
+    },
+    "436": {
+        "observed_seconds": 2.64,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "437": {
+        "observed_seconds": 2.64,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "491": {
+        "observed_seconds": 3.68,
+        "moving_percentage": 4.35,
+        "stationary_percentage": 95.65
+    },
+    "531": {
+        "observed_seconds": 2.88,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "532": {
+        "observed_seconds": 2.88,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    },
+    "533": {
+        "observed_seconds": 2.88,
+        "moving_percentage": 0.0,
+        "stationary_percentage": 100.0
+    }
+}
